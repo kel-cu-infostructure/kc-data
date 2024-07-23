@@ -82,7 +82,7 @@ Hello, | world | !
 
 <hr>
 
-![img.png](https://simplykel.ru/ass/icons/alinaSeaDrive.png)
+![angrycat.gif](https://cdn.kelcuprum.ru/emote/angrycat.gif)
 
 # 1
 ## 2
